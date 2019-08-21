@@ -1,0 +1,19 @@
+0.015 0.015 55 50 50 80 100
+
+
+
+
+
+
+
+
+
+
+
+awb_red
+awb_blue
+brightness
+contrast
+saturation
+exposure
+gain
